@@ -1,4 +1,11 @@
-import random
+import random  # pygame, sys
+
+
+# TODO:  Add pygame usage to the game so that the player has a windows come up on their screen.
+# size = width, height = 640, 480
+
+# pygame.init()
+# pygame.display.set_mode(size)
 
 counter = 0
 print('Welcome to Guess Game!')
